@@ -1,4 +1,3 @@
-inp
 name: Continuous Integration
 on: [push]
 jobs:
